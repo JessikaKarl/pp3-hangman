@@ -19,4 +19,13 @@ words = [
     'cat',
     'dog',
     'umbrella',
+    'fruit',
+    'blue',
+    'book',
+    'icecream',
+    'candle',
+    'cake',
+    'school',
+    'bus',
+    'frame',
 ]
