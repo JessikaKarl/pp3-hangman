@@ -1,7 +1,5 @@
 # Portfolio Project 3 - Python
 ## Hangman Game
-! [Mockup image](<img width="1343" alt="mockup-hagman" src="https://github.com/JessikaKarl/pp3-hangman/assets/147527640/bc487995-1778-49f9-973b-15bd01d3e217">
-)
 [Link to live site](https://pp3-hangmangame-6941953e3511.herokuapp.com/)
 ## Table of Contents 
 * [Design](#design)
