@@ -20,7 +20,8 @@ This project is deployed with Heroku. This is how I deployed:
   1. Python
   2. NodeJS
 * Link the new app to the repository for the project (Heroku and GitHub)
-* Choose to enable Automatic Deploys or not. If enabled the depoyed app will update automatically with each push to GitHub 
+* Choose to enable Automatic Deploys or not. If enabled the depoyed app will update automatically with each push to GitHub
+* Deploy
 ## Credits
 ### Code 
 * [Python template and terminal from Code Institute](https://github.com/Code-Institute-Org/p3-template)
