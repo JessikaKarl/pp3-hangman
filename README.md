@@ -11,7 +11,16 @@
 ## Testing 
 ### Validator Testing 
 ### Unfixted Bugs
-## Deployment 
+## Deployment
+This project is deployed with Heroku. This is how I deployed: 
+* Clone or fork the repository
+* Create a Heroku account
+* Create a new app with Heroku
+* In Settings add two buildpacks:
+  1. Python
+  2. NodeJS
+* Link the new app to the repository for the project (Heroku and GitHub)
+* Choose to enable Automatic Deploys or not. If enabled the depoyed app will update automatically with each push to GitHub 
 ## Credits
 ### Code 
 * [Python template and terminal from Code Institute](https://github.com/Code-Institute-Org/p3-template)
