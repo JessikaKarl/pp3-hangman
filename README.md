@@ -9,6 +9,8 @@
 * [Credits](#credits)
 ## Design
 ## Features 
+### Future features 
+It would be a functioning Hangman Game with a title "Hangman Game" thats welcome the player to the game so they know what game it is. After that it will be a decription on how to play the game/ rules and a "GOOD LUCK!" before they start the game. The game has one level and for each random word the player has to guess they have 10 lives before failure/ getting hung. There will be counting down the lives and images of the gallows being bulid. The letters that are wrong will be displayed and the right letters will be displayed where it would be in the word. After each game the player gets asked if the want to play again (Y/N). If the player want to restart the game the player has to click on the run program button. 
 ## Testing 
 ### Validator Testing 
 ### Unfixted Bugs
