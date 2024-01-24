@@ -6,7 +6,7 @@
 * [Testing](#testing)
 * [Deployment](#deployment)
 * [Credits](#credits)
-## Design <a name="design"></a>
+## Design
 ## Features 
 ## Testing 
 ### Validator Testing 
