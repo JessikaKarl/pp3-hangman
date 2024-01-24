@@ -1,6 +1,12 @@
 # Portfolio Project 3 - Python
 ## Hangman Game
-## Design 
+## Table of Contents 
+* [Design](#design)
+* [Features](#features)
+* [Testing](#testing)
+* [Deployment](#deployment)
+* [Credits](#credits)
+## Design <a name="design"></a>
 ## Features 
 ## Testing 
 ### Validator Testing 
